@@ -1,0 +1,30 @@
+h1 {
+    font-family: "Calibri";
+    color: dodgerblue;
+}
+
+header
+{
+    background-image: url(../Image/Image.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    height: 255px;
+}
+
+.text {
+    font-family: sans-serif;
+    font-size: 14pt;
+}
+
+.footerclass
+{
+    background: black;
+    text-align: center;
+    color: darkgray;
+    height: 100px;
+}
+
+.footerText
+{
+    padding-top: 75px;
+}
